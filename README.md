@@ -45,3 +45,11 @@ npm install
 ```bash
 npm start
 ```
+
+### `En caso de detenerse en termux`
+```bash
+ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+> cd 
+> cd Miku-Bot
+> npm start
+```
