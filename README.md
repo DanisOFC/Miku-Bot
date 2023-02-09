@@ -1,1 +1,1 @@
-# Miku-Bot
+# Miku Bot
